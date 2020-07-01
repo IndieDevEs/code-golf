@@ -1,0 +1,1 @@
+#include <stdio.h>int main(n){while(n<100){printf("%d\n",2*n++-1);}}
