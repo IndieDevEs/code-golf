@@ -1,0 +1,1 @@
+var s=console.log;let a=0;s(a);let b=1;s(b);for(var i=3;i<=25;i++){var c=a+b;s(c);a=b;b=c;}

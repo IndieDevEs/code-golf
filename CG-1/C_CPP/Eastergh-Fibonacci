@@ -1,0 +1,1 @@
+#include<stdio.h>int f(int n){return n--<3?n>0:f(n)+f(n-1);}int main(n){while(n<26){printf("%d\n",f(n++));}}
