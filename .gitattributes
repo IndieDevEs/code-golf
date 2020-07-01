@@ -1,2 +1,2 @@
-*.ni linguist-detectable
-*.ni linguist-language=Ni
+#*.ni linguist-detectable
+*.nic linguist-language=Nic
